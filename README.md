@@ -21,7 +21,7 @@ Status Retrieval:
 
 Users can check the current status of an event, including the number of available tickets and the size of the waiting list.
 
-Features
+## Features
 
 - Initialize events with a specified number of available tickets.
 - Book tickets for users, automatically adding them to a waiting list when tickets are sold out.
