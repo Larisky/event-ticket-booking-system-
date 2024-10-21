@@ -1,7 +1,7 @@
 ## Overview
 The Event Ticket Booking System is a web application designed to facilitate the management of event tickets. It allows users to create events, book tickets for those events, manage cancellations, and maintain a waiting list for users when tickets are sold out. The system is built using Node.js, Express.js, and a MySQL database.
 
-##Purpose
+## Purpose
 The main goals of this system are to:
 
 Provide a seamless way for event organizers to manage ticket sales.
