@@ -96,7 +96,8 @@ API Endpoints
 
 
 
-Acknowledgments
+## Acknowledgments
+
 -Special thanks to Pakam Technology Limited for providing this assessment opportunity.
 
 -Inspired by various ticket booking systems.
